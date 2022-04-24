@@ -21,8 +21,6 @@ const useSelectMonedas = (label, opciones) => {
 
     const [state, setState] = useState('');
 
-    console.log(state);
-
     const SelectMonedas = () => (
         
         <>
